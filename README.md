@@ -28,11 +28,11 @@
 
 ---
 ### About
-- 🔭 I’m currently working on MYSELF
+- 🔭 I’m currently working on being a better version MYSELF
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Projects 
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Can make you laugh easily
+- ⚡ Fun fact: ERROR 404 Bugs not found
 -->
 
 ---
