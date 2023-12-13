@@ -111,10 +111,11 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=AyushB21&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
  </div>
- <a href="https://github.com/AyushB21">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushB21&theme=radical" alt="Ayush's Contributions"/>
-</a>
-
+ <p align="center">
+     <a href="https://github.com/AyushB21">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushB21&theme=radical" alt="Ayush's Contributions"/>
+    </a>
+ </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AyushB21&color=0E9C47&style=for-the-badge">
 
