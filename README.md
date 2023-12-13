@@ -114,5 +114,8 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AyushB21&color=0E9C47&style=for-the-badge">
+<a href="https://github.com/AyushB21">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushB21&theme=radical" alt="Ayush's Contributions"/>
+</a>
 
 
