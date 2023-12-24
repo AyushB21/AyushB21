@@ -1,3 +1,6 @@
+![Mario](https://github.com/AyushB21/AyushB21/assets/117504082/2f746329-909c-4dce-afca-d6290208c3bb)
+
+
 <h1 align="center">Hi, guys! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
