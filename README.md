@@ -7,7 +7,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Ayush.<br>
-        Currently learning to walk in ML and App development.<br>
+        Currently learning to walk in ML and Cloud.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/ayushb5/">
