@@ -93,7 +93,14 @@
 
 
 <details>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyushB21&no-bg=true&no-frame=true&column=4&theme=black">
+</div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushB21&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages" />
+</p>
+    
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyushB21&show_icons=true&theme=algolia&hide_border=true&hide=issues" alt="GitHub Stats" />
 </p>
@@ -103,24 +110,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AyushB21?tab=stars&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AyushB21"/></a>
-<a href="https://github.com/AyushB21?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AyushB21?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/AyushB21">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushB21&theme=radical" alt="Ayush's Contributions"/>
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushB21&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages" />
+    <img src="https://komarev.com/ghpvc/?username=AyushB21&style=flat-square&label=Views" alt="Profile Views" />
 </p>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AyushB21&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
- </div>
- <p align="center">
-     <a href="https://github.com/AyushB21">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushB21&theme=radical" alt="Ayush's Contributions"/>
-    </a>
- </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AyushB21&color=0E9C47&style=for-the-badge">
+
+</details>
+
 
 
 
