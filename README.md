@@ -88,9 +88,12 @@
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)](https://github.com/AyushB21)
 [![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/AyushB21)
 [![React Native](https://img.shields.io/badge/React%20Native-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/AyushB21)
+
+---
+
+### 3D Modeling
 [![Fusion 360](https://img.shields.io/badge/Fusion%20360-%23005690.svg?style=for-the-badge&logo=Autodesk&logoColor=white)](https://github.com/AyushB21)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)](https://github.com/AyushB21)
-
 
 ---
 
