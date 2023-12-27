@@ -48,6 +48,12 @@
 
 ---
 
+### Currently Learning
+[![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/AyushB21)
+[![React Native](https://img.shields.io/badge/React%20Native-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/AyushB21)
+
+---
+
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/AyushB21)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/AyushB21)
@@ -86,8 +92,6 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/AyushB21)
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/AyushB21)
 [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)](https://github.com/AyushB21)
-[![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/AyushB21)
-[![React Native](https://img.shields.io/badge/React%20Native-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/AyushB21)
 
 ---
 
