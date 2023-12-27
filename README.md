@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/ayushb5/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:ayushbh0612@gmail,com">
+    <a href="mailto:ayushbh0612@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail">
     </a>
     <a href="https://www.kaggle.com/ayushbh0612/">
