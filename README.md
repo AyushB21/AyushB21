@@ -93,33 +93,31 @@
 
 
 <details>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushB21&no-bg=true&no-frame=true&column=4&theme=black">
-</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushB21&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages" />
-</p>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=AyushB21&no-bg=true&no-frame=true&column=4&theme=black">
+  </div>
     
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushB21&show_icons=true&theme=algolia&hide_border=true&hide=issues" alt="GitHub Stats" />
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AyushB21&show_icons=true&theme=algolia&hide_border=true&hide=issues" alt="GitHub Stats" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushB21&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushB21&theme=algolia&hide_border=true" alt="GitHub Streak" />
+    
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushB21&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <a href="https://github.com/AyushB21">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushB21&theme=radical" alt="Ayush's Contributions"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/AyushB21">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushB21&theme=radical" alt="Ayush's Contributions"/>
+    </a>
+  </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AyushB21&style=flat-square&label=Views" alt="Profile Views" />
-</p>
-
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=AyushB21&style=flat-square&label=Views" alt="Profile Views" />
+  </p>
 </details>
+
 
 
 
