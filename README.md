@@ -98,7 +98,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=AyushB21&no-bg=true&no-frame=true&column=4&theme=black">
   </div>
 </details>
-<details>  
+<details>
+  <summary>Ayush's Stats</summary> 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AyushB21&show_icons=true&theme=algolia&hide_border=true&hide=issues" alt="GitHub Stats" />
   </p>
@@ -107,7 +108,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushB21&theme=algolia&hide_border=true" alt="GitHub Streak" />
     
   </p>
-
 
   <p align="center">
     <a href="https://github.com/AyushB21">
