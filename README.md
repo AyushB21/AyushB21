@@ -90,14 +90,24 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/AyushB21)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/AyushB21)
 
+---
 
+### Design & Collaboration Tools
+[![Overleaf](https://img.shields.io/badge/Overleaf-%234984A1.svg?style=for-the-badge&logo=Overleaf&logoColor=white)](https://github.com/ayushi0111)
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://github.com/ayushi0111)
+[![Lucidchart](https://img.shields.io/badge/Lucidchart-%23117AC9.svg?style=for-the-badge&logo=Lucidchart&logoColor=white)](https://github.com/ayushi0111)
+
+---
 
 <details>
   <summary>Trophies</summary>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AyushB21&no-bg=true&no-frame=true&column=4&theme=black">
+    <img src="https://github-profile-trophy.vercel.app/?username=AyushB21&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"/>
   </div>
 </details>
+
+---
+
 <details>
   <summary>Ayush's Stats</summary> 
   <p align="center">
