@@ -43,14 +43,12 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AyushB21)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/AyushB21)
-[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/AyushB21)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/AyushB21)
 
 ---
 
 ### Currently Learning
-[![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/AyushB21)
-[![React Native](https://img.shields.io/badge/React%20Native-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/AyushB21)
+[![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=black)](https://github.com/AyushB21)
+[![React Native](https://img.shields.io/badge/React%20Native-%2302569B.svg?style=for-the-badge&logo=React&logoColor=black)](https://github.com/AyushB21)
 
 ---
 
