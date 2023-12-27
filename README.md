@@ -83,6 +83,10 @@
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/AyushB21)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/AyushB21)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/AyushB21)
+[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/AyushB21)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)](https://github.com/AyushB21)
+[![React](https://img.shields.io/badge/React-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/AyushB21)
+[![React Native](https://img.shields.io/badge/React%20Native-%2302569B.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/AyushB21)
 
 ---
 
@@ -93,9 +97,9 @@
 ---
 
 ### Design & Collaboration Tools
-[![Overleaf](https://img.shields.io/badge/Overleaf-%234984A1.svg?style=for-the-badge&logo=Overleaf&logoColor=white)](https://github.com/ayushi0111)
-[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://github.com/ayushi0111)
-[![Lucidchart](https://img.shields.io/badge/Lucidchart-%23117AC9.svg?style=for-the-badge&logo=Lucidchart&logoColor=white)](https://github.com/ayushi0111)
+[![Overleaf](https://img.shields.io/badge/Overleaf-%234984A1.svg?style=for-the-badge&logo=Overleaf&logoColor=white)](https://github.com/AyushB21)
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://github.com/AyushB21)
+[![Lucidchart](https://img.shields.io/badge/Lucidchart-%23117AC9.svg?style=for-the-badge&logo=Lucidchart&logoColor=white)](https://github.com/AyushB21)
 
 ---
 
