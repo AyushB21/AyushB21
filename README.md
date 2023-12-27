@@ -93,10 +93,12 @@
 
 
 <details>
+  <summary>Trophies</summary>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AyushB21&no-bg=true&no-frame=true&column=4&theme=black">
   </div>
-    
+</details>
+<details>  
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AyushB21&show_icons=true&theme=algolia&hide_border=true&hide=issues" alt="GitHub Stats" />
   </p>
