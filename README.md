@@ -132,7 +132,7 @@
 <details>
   <summary>Ayush's Stats</summary> 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AyushB21&show_icons=true&theme=algolia&hide_border=true&hide=issues" alt="GitHub Stats" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AyushB21&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushB21&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages" />
