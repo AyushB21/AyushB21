@@ -2,7 +2,9 @@
 
 
 <h1 align="center">Hi, guys! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="👋"></h1>
-
+  <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=AyushB21&style=flat-square&label=Views" alt="Profile Views" />
+  </p>
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
@@ -144,10 +146,6 @@
     <a href="https://github.com/AyushB21">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushB21&theme=radical" alt="Ayush's Contributions"/>
     </a>
-  </p>
-
-  <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=AyushB21&style=flat-square&label=Views" alt="Profile Views" />
   </p>
 </details>
 
