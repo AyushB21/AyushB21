@@ -121,7 +121,7 @@
 ---
 
 <details>
-  <h2>Trophies</h2>
+  <summary>Trophies</summary>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AyushB21&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"/>
   </div>
@@ -130,7 +130,7 @@
 
 ---
 <details>
-  <h2>Ayush's Stats</h2> 
+  <summary>Ayush's Stats</summary> 
   <p align="center">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AyushB21&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   </p>
