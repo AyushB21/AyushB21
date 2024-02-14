@@ -1,3 +1,4 @@
+![Mario](https://github.com/AyushB21/AyushB21/assets/117504082/2f746329-909c-4dce-afca-d6290208c3bb)
 
 <h1 align="center">Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="👋"></h1>
   <p align="center">
@@ -119,35 +120,32 @@
 
 ---
 
-
-
+<details>
   <h2>Trophies</h2>
-  <div align="leftr">
+  <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AyushB21&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"/>
   </div>
+</details>
 
 
 ---
-
+<details>
   <h2>Ayush's Stats</h2> 
-  <p align="left">
+  <p align="center">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AyushB21&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
   </p>
-  <p align="left">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushB21&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Top Languages" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushB21&theme=algolia&hide_border=true" alt="GitHub Streak" />
     
   </p>
 
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/AyushB21">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushB21&theme=radical" alt="Ayush's Contributions"/>
     </a>
   </p>
-
----
-
-![Mario](https://github.com/AyushB21/AyushB21/assets/117504082/2f746329-909c-4dce-afca-d6290208c3bb)
+</details>
 
 
 
