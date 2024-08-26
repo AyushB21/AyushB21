@@ -45,6 +45,14 @@
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AyushB21)
 
 ---
+### Data Analytics
+[![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=powerbi)](https://github.com/AyushB21)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/AyushB21)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://github.com/AyushB21)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%2300599C.svg?style=for-the-badge&logo=Seaborn&logoColor=white)](https://github.com/AyushB21)
+[![Plotly](https://img.shields.io/badge/Plotly-%233B4D98.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/AyushB21)
+
+---
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/AyushB21)
@@ -52,8 +60,6 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/AyushB21)
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/AyushB21)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/AyushB21)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://github.com/AyushB21)
-[![Seaborn](https://img.shields.io/badge/Seaborn-%2300599C.svg?style=for-the-badge&logo=Seaborn&logoColor=white)](https://github.com/AyushB21)
 
 ---
 
@@ -86,12 +92,6 @@
 
 ---
 
-### 3D Modeling
-[![Fusion 360](https://img.shields.io/badge/Fusion%20360-%23005690.svg?style=for-the-badge&logo=Autodesk&logoColor=white)](https://github.com/AyushB21)
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white)](https://github.com/AyushB21)
-
----
-
 ### API
 [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://github.com/AyushB21)
 [![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=rest)](https://github.com/AyushB21)
@@ -103,6 +103,7 @@
 [![Overleaf](https://img.shields.io/badge/Overleaf-%234984A1.svg?style=for-the-badge&logo=Overleaf&logoColor=white)](https://github.com/AyushB21)
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://github.com/AyushB21)
 [![Lucidchart](https://img.shields.io/badge/Lucidchart-%23117AC9.svg?style=for-the-badge&logo=Lucidchart&logoColor=white)](https://github.com/AyushB21)
+[![Replit](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=replit)](https://github.com/AyushB21)
 
 ---
 
