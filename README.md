@@ -42,74 +42,68 @@
 ---
 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/AyushB21)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 
 ---
+
 ### Data Analytics
-[![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=powerbi)](https://github.com/AyushB21)
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/AyushB21)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://github.com/AyushB21)
-[![Seaborn](https://img.shields.io/badge/Seaborn-%2300599C.svg?style=for-the-badge&logo=Seaborn&logoColor=white)](https://github.com/AyushB21)
-[![Plotly](https://img.shields.io/badge/Plotly-%233B4D98.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/AyushB21)
+[![Power BI](https://img.shields.io/badge/Power%20BI-black?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com/)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%2300599C.svg?style=for-the-badge&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-%233B4D98.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 
 ---
 
 ### ML/DL
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/AyushB21)
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/AyushB21)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/AyushB21)
-[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/AyushB21)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://github.com/AyushB21)
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://numpy.org/)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 
 ---
 
 ### Databases
-[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)](https://github.com/AyushB21)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/AyushB21)
-[![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/AyushB21)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/AyushB21)
+[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)](https://dev.mysql.com/doc/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ---
 
 ### Hosting/SaaS
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/AyushB21)
-[![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/AyushB21)
-[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushB21)
-[![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/AyushB21)
-[![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-3776AB?style=for-the-badge&logo=pythonanywhere&logoColor=white)](https://www.pythonanywhere.com/user/AyushB21/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://pages.github.com/)
+[![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-3776AB?style=for-the-badge&logo=pythonanywhere&logoColor=white)](https://www.pythonanywhere.com/)
 
 ---
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/AyushB21)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/AyushB21)
-[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/AyushB21)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/AyushB21)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/AyushB21)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/AyushB21)
-[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/AyushB21)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)](https://github.com/AyushB21)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
+[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)](https://spark.apache.org/)
 
 ---
 
 ### API
-[![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://github.com/AyushB21)
-[![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=rest)](https://github.com/AyushB21)
-[![Thunder Client](https://img.shields.io/badge/Thunder%20Client-black?style=for-the-badge&logo=thunder-client)](https://github.com/AyushB21)
-
----
-
-### Design & Collaboration Tools
-[![Overleaf](https://img.shields.io/badge/Overleaf-%234984A1.svg?style=for-the-badge&logo=Overleaf&logoColor=white)](https://github.com/AyushB21)
-[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://github.com/AyushB21)
-[![Lucidchart](https://img.shields.io/badge/Lucidchart-%23117AC9.svg?style=for-the-badge&logo=Lucidchart&logoColor=white)](https://github.com/AyushB21)
-[![Replit](https://img.shields.io/badge/Replit-black?style=for-the-badge&logo=replit)](https://github.com/AyushB21)
+[![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
+[![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=rest)](https://restfulapi.net/)
+[![Thunder Client](https://img.shields.io/badge/Thunder%20Client-black?style=for-the-badge&logo=thunder-client)](https://www.thunderclient.com/)
 
 ---
 
 ### Version Control
-[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/AyushB21)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushB21)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![DVC](https://img.shields.io/badge/DVC-%23020029.svg?style=for-the-badge&logo=dvc&logoColor=white)](https://dvc.org/)
 
 ---
 
