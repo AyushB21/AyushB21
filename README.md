@@ -122,9 +122,15 @@
         <br>
         <a href="https://www.credly.com/badges/60e9120f-42d5-4789-9470-0b16991722e4/public_url">Google Cloud Digital Leader</a>
       </td>
+      <td align="center">
+        <img src="https://github.com/AyushB21/AyushB21/blob/main/google-project-management-professional-certificate.2.png" width="104" height="104" alt="Google Project Management Professional">
+        <br>
+        <a href="https://www.credly.com/badges/6ee0335e-6323-4d8a-9456-533d1e9d2854/public_url">Google Project Management Professional</a>
+      </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
