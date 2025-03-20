@@ -7,9 +7,9 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Ayush.<br>
-        Currently learning to walk in ML and Cloud.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        I'm Ayush, a data engineer in the making.<br>
+        Love building data pipelines and automating stuff.<br>
+        Exploring cloud and big data on the side.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/ayushb5/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -17,23 +17,23 @@
     <a href="mailto:ayushbh0612@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="https://www.kaggle.com/ayushbh0612/">
-        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+<!--     <a href="https://www.kaggle.com/ayushbh0612/">
+        <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"> -->
     <a href="https://leetcode.com/ayushbh0612/">
         <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
     </a>
     <a href="https://www.hackerrank.com/ayushbh0612?hr_r=1/">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
     </a>
-    <a href="https://www.codechef.com/users/ayushb_05">
+<!--     <a href="https://www.codechef.com/users/ayushb_05">
         <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">
-    </a>
+    </a> -->
 </p>
 
 ---
 ### About
 - 🔭 I’m currently working on being a better version MYSELF
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Cloud
 - 👯 I’m looking to collaborate on Projects 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ERROR 404 Bugs not found
@@ -43,6 +43,7 @@
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)](https://dev.mysql.com/doc/)
 
 ---
 
@@ -55,17 +56,7 @@
 
 ---
 
-### ML/DL
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://numpy.org/)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
-
----
-
 ### Databases
-[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)](https://dev.mysql.com/doc/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
